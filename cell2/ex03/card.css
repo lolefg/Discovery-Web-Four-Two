@@ -1,0 +1,60 @@
+.invisible-table {
+  max-width: 300px;
+  background-color: #f7f7f7;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.card-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .profile-pic {
+    width: 300px;
+    height: 220px;
+  }
+  
+  .description {
+    font-size: 14px;
+    color: #666;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .social-media {
+    display: flex;
+    text-align: center;
+    width: 35px;
+    height: 35px;
+  }
+  
+  .social-media a:hover {
+    color: #666;
+  }
+
+  #social_m {
+    display: flex;
+    justify-content: center; /* centra los iconos de las redes sociales */
+  }
+  
+  button {
+    background-color: #000000;
+    color: #ffffff;
+    width: 100%;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 0px 0px 5px 5px;
+  }
+  
+  .contact-btn:hover {
+    background-color: #67696a;
+  }

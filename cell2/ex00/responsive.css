@@ -1,0 +1,18 @@
+.tabla{
+    width: 100%; 
+    height: auto; 
+    padding: 5px;
+}
+
+.celda1{
+    width:50%; 
+    height: 80px;
+    background-color: rgb(14, 70, 35);
+    color: beige;
+}
+.celda2{
+    width:50%; 
+    height: 80px;
+    background-color: rgb(90, 10, 94);
+    color: beige;
+}

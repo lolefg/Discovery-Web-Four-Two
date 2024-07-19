@@ -1,0 +1,7 @@
+#globo {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 50%;
+    cursor: pointer; /* Cambia el cursor a una mano para indicar que es clickable */
+  }
